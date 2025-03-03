@@ -11,5 +11,3 @@ After you entered the new password, restart the program. This way a new
 security file is created, with a new masterpass and a new key for encryption and decryption.
 CAUTION! If you change the security file you cant use previously saved passwords 
 because the encryption key has been changed.
-
-This master pass changing feature will be changed in the future.
