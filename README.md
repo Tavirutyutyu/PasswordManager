@@ -41,8 +41,8 @@ If you don’t have Python installed, download it from [here](https://www.python
 ### 📥 Installation  
 1. **Clone the Repository:**  
 ```sh
-git clone https://github.com/your-username/password-manager.git
-cd password-manager
+git clone https://github.com/Tavirutyutyu/PasswordManager.git
+cd PasswordManager
 ```
 
 2. **Install Dependencies:**  
