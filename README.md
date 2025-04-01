@@ -1,6 +1,6 @@
 # 🔑 Password Manager  
 
-A simple password manager written in Python.  
+A simple password manager written in Python. I wrote this program from scratch to improve my python skills.
 
 ## Technologies Used  
 - 🐍 Python  
